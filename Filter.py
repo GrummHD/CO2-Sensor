@@ -6,7 +6,7 @@ unwanted = "410"
 Raum = input("Raum: ")
 times = open("timetable.txt","r")
 writepointer = 0
-inputDoc = open("D:/Jasper/Documents/Schule/Alternative Bildung/Jugend forscht/Statistiken/" + str(Raum)+ ".csv","r")
+inputDoc = open("YOURDIRECTORYINPUT" + str(Raum)+ ".csv","r")
 data = inputDoc.readlines()
 boundaries = times.readlines()
 length = len(boundaries)
@@ -16,7 +16,7 @@ for i in range(0,length,2):
 	endtime = str(boundaries[i+1]).rstrip("\n")
 	starttime_object = datetime.strptime(starttime, '%H:%M')
 	endtime_object = datetime.strptime(endtime, '%H:%M')
-	out = open("D:/Jasper/Documents/Schule/Alternative Bildung/Jugend forscht/out/"+ str(Raum)+"/" + str(int(((i+1)/2)+0.5))+". Stunde"+".csv","w+")
+	out = open("YOURDIRECTORYOUT"+ str(Raum)+"/" + str(int(((i+1)/2)+0.5))+". Stunde"+".csv","w+")
 	out.write(data[0])
 	for x in range(1,doclength-1,1):
 		print(x)
