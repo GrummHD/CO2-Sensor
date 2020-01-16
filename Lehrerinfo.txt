@@ -1,0 +1,7 @@
+Informationstext an die Lehrer:
+Auf dem Beamer des Smartboards in diesem Klassenraum befindet sich ein neuer CO2-Sensor, der den optimalen Zeitpunkt zum Lüften über eine Farbanzeige anzeigt. 
+Zahlreiche Studien haben belegt, dass die Lernleistung einer Person bei zunehmender CO2-konzentration rapide abnimmt. Dies kann so weit führen, dass bei einer CO2-konzentration von über 1500ppm die Lernleistung auf nur noch 50% der maximal möglichen Leistung (bei guter Luft) absinkt. 
+Um diesem Verfall der Lernleistung entgegenzuwirken, haben wir in diesem Raum einen CO2-Sensor installiert:
+-	Wenn nicht unbedingt gelüftet werden muss, wird dies lediglich durch ein Blinken einer Lampe des Sensors im Abstand von einer Minute angezeigt. 
+-	Bei einer Co2-Konzentration von mehr als 1000ppm (ungefähr 0,1%) in der Luft, leuchten die Lampen des Sensors rot auf und es sollte gelüftet werden. Diese Konzentration entspricht einer Reduktion der Lernleistung von rund 15%
+-	Bei einer CO2-Konzentration von mehr als 1500ppm (entspricht einer Reduktion der Lernleistung von ca. 50%) blinken die Lampen des Sensors rot und es sollte unbedingt gelüftet werden. 
